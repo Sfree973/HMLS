@@ -1,5 +1,5 @@
 ##
-Source codes for TKDE paper 《When Hardness and Hierarchy Make a Difference: Multi-Hop Knowledge Graph Reasoning in Few-Shot Scenarios》
+Source codes for HMLS (TOIS2022 paper).
 ## 
 This open source code was published during the review of our article. 
 Note that any falsification, plagiarism, and commercial use are not permitted until the article is accepted.
