@@ -29,6 +29,9 @@ data/FB15K-237
 
 # dataset NELL-995
 data/NE
+
+# dataset Wikidata
+data/Wi
 ```
 
 ## Pretrain Knowledge Graph Embedding
